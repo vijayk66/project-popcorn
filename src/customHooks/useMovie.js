@@ -60,20 +60,3 @@ export function useMovie(query) {
 }
 
 
-// Poster
-// : 
-// "https://m.media-amazon.com/images/M/MV5BNjFlZDIyOTQtZGI5Yi00MmIxLTgwOTUtZWUzZDI4NzZkODIyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg"
-// Title
-// : 
-// "Sura"
-// Type
-// : 
-// "movie"
-// Year
-// : 
-// "2010"
-// imdbID
-// : 
-// "tt1650433"
-
-
