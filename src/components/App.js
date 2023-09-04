@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import {useState } from "react";
 
 // custom Hooks
 import { useMovie } from "../customHooks/useMovie";

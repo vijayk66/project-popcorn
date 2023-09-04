@@ -120,6 +120,7 @@ export function MoviDetails({
                     maxRating={10}
                     size={24}
                     onSetRating={SetUserRating}
+                    isLoading={setIsLoading}
                   />
                   {userRating && (
                     <button onClick={CreateAddMovie} className="btn-add">
