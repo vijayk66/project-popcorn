@@ -36,8 +36,16 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayk66/project-popcorn.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/vijayk66/project-popcorn/issues"
+  },
+  "homepage": "https://github.com/vijayk66/project-popcorn#readme"
 }
